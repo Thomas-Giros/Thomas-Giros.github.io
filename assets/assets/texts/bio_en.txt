@@ -1,0 +1,6 @@
+I was first introduced to computers via the Python language and musical creation during my studies at the University of Montreal.
+Music has always been part of my life but programming has become an essential tool for me.
+So I continued my studies at the University of Quebec in Montreal to improve my knowledge in the field.
+It is difficult to make a choice for your career as there are so many opportunities in IT.
+I first worked as an analyst-programmer in order to participate in the production of software packages for transport companies at GIRO.
+Then I wanted to take a step back to reorient myself. This is how I turned to mobile application development and cross-platform development.

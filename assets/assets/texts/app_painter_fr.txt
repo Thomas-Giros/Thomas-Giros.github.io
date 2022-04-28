@@ -1,0 +1,3 @@
+AppPainter est un éditeur de thème de conception de matériel de Flutter pour personnaliser et prévisualiser l'ensemble de l'esthétique visuelle de votre application mobile.
+L'objectif de cette bibliothèque est de faciliter la configuration et la prévisualisation du thème visuel global de votre application Flutter. AppPainter vous permet d'appliquer des thèmes de matériaux créés par Google sans avoir à faire de programmation difficile.
+Il comprend des fonctionnalités telles qu'un éditeur de style vivant avec la mise à jour instantanée, des ressources d'image intégrées, des fonctions d'exportation de code, etc.
