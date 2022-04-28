@@ -57847,7 +57847,7 @@ A.IG.prototype={
 N(a,b){var s,r=null,q=this.a.c,p=A.bd(0,800),o=A.aF(b).ch.fr
 o=A.an(B.d.aa(127.5),o.gn(o)>>>16&255,o.gn(o)>>>8&255,o.gn(o)&255)
 s=A.b([new A.hu(0,B.cJ,A.an(41,0,0,0),new A.u(0,-2),30)],t.sq)
-return A.t5(A.pT(A.b([B.Ah,new A.tR(B.am,$.v4,"assets/images/email_icon.svg"," linked in  ","assets/images/linkedin_icon.svg",!1,"https://www.linkedin.com/in/thomas-giros-a53698a1/",r)],t.p),B.am,B.aY),new A.dz(o,r,r,r,s,r,B.a4),p,q,r,r,r,r)}}
+return A.t5(A.pT(A.b([B.Ah,new A.tR(B.am,$.v4,"images/email_icon.svg"," linked in  ","images/linkedin_icon.svg",!1,"https://www.linkedin.com/in/thomas-giros-a53698a1/",r)],t.p),B.am,B.aY),new A.dz(o,r,r,r,s,r,B.a4),p,q,r,r,r,r)}}
 A.tR.prototype={
 N(a,b){var s=this,r=null,q=b.a4(t.w).f,p=s.c,o=s.x,n=t.p
 return A.eE(r,A.tL(A.b([new A.kd(1,B.cY,A.pT(A.b([new A.pg(s.d,s.e,o,"",r)],n),p,B.aY),r),new A.kd(1,B.cY,A.pT(A.b([new A.pg(s.f,s.r,o,s.y,r)],n),p,B.aY),r)],n),B.EN),B.r,r,r,r,r,r,r,r,r,r,q.a.a/2-1.5)}}
@@ -62370,7 +62370,7 @@ B.Ac=new A.k(536870911)
 B.Af=new A.tN(!1)
 B.Ag=new A.tN(!0)
 B.EM=new A.pj(1,"end")
-B.Ah=new A.tR(B.EM," +1 438 880 2044 ","assets/images/phone_icon.svg"," github ","assets/images/github_icon.svg",!0,"https://github.com/Thomas-Giros",null)
+B.Ah=new A.tR(B.EM," +1 438 880 2044 ","images/phone_icon.svg"," github ","images/github_icon.svg",!0,"https://github.com/Thomas-Giros",null)
 B.kQ=new A.k5(0,"start")
 B.Ai=new A.k5(1,"end")
 B.kR=new A.k5(2,"center")
