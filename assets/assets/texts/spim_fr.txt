@@ -1,0 +1,2 @@
+Spim utilise la reconnaissance vocale de Google afin de générer un flot constant d'images. On peux y choisir de montrer les résultats d'écoute, comment disposer les images et quels types d'images on montre.
+Par exemple on peut filtrer avec la couleur bleu, pour avoir des images à teinte bleuté, et choisir l'icône GIF afin de ne montrer que des GIFs.

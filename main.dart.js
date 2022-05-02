@@ -18955,31 +18955,31 @@ $.Vj="\xc0 propos"
 $.aaM="Pr\xe9sentation"
 p=$
 s=5
-return A.K(A.ei("assets/texts/presentation_fr.txt"),$async$dS)
+return A.K(A.ei("texts/presentation_fr.txt"),$async$dS)
 case 5:p.aaN=b
 $.aaK="Mes projets"
 p=$
 s=6
-return A.K(A.ei("assets/texts/spim_fr.txt"),$async$dS)
+return A.K(A.ei("texts/spim_fr.txt"),$async$dS)
 case 6:p.aaQ=b
 $.aaL="Des projets que j'aime"
 p=$
 s=7
-return A.K(A.ei("assets/texts/random_face_fr.txt"),$async$dS)
+return A.K(A.ei("texts/random_face_fr.txt"),$async$dS)
 case 7:p.aaG=b
 p=$
 s=8
-return A.K(A.ei("assets/texts/app_painter_fr.txt"),$async$dS)
+return A.K(A.ei("texts/app_painter_fr.txt"),$async$dS)
 case 8:p.aaF=b
 $.aaI="Introduction"
 p=$
 s=9
-return A.K(A.ei("assets/texts/bio_fr.txt"),$async$dS)
+return A.K(A.ei("texts/bio_fr.txt"),$async$dS)
 case 9:p.aaH=b
 $.aaO="Mes comp\xe9tences"
 p=$
 s=10
-return A.K(A.ei("assets/texts/skills_fr.txt"),$async$dS)
+return A.K(A.ei("texts/skills_fr.txt"),$async$dS)
 case 10:p.aaP=b
 $.v5=" courriel "
 s=3
@@ -18991,31 +18991,31 @@ $.Vj="About"
 $.aaM="Presentation"
 p=$
 s=13
-return A.K(A.ei("assets/texts/presentation_en.txt"),$async$dS)
+return A.K(A.ei("texts/presentation_en.txt"),$async$dS)
 case 13:p.aaN=b
 $.aaK="My works"
 p=$
 s=14
-return A.K(A.ei("assets/texts/spim_en.txt"),$async$dS)
+return A.K(A.ei("texts/spim_en.txt"),$async$dS)
 case 14:p.aaQ=b
 $.aaL="Projects I like"
 p=$
 s=15
-return A.K(A.ei("assets/texts/random_face_en.txt"),$async$dS)
+return A.K(A.ei("texts/random_face_en.txt"),$async$dS)
 case 15:p.aaG=b
 p=$
 s=16
-return A.K(A.ei("assets/texts/app_painter_en.txt"),$async$dS)
+return A.K(A.ei("texts/app_painter_en.txt"),$async$dS)
 case 16:p.aaF=b
 $.aaI="Introduction"
 p=$
 s=17
-return A.K(A.ei("assets/texts/bio_en.txt"),$async$dS)
+return A.K(A.ei("texts/bio_en.txt"),$async$dS)
 case 17:p.aaH=b
 $.aaO="My skills"
 p=$
 s=18
-return A.K(A.ei("assets/texts/skills_en.txt"),$async$dS)
+return A.K(A.ei("texts/skills_en.txt"),$async$dS)
 case 18:p.aaP=b
 $.v5=" email "
 case 12:case 3:return A.D(null,r)}})
@@ -58140,7 +58140,7 @@ A.IM.prototype={
 N(a,b){var s,r=null,q=this.a.c,p=A.be(0,800),o=A.aD(b).ch.fr
 o=A.ao(B.d.ab(127.5),o.gn(o)>>>16&255,o.gn(o)>>>8&255,o.gn(o)&255)
 s=A.b([new A.hv(0,B.cS,A.ao(41,0,0,0),new A.u(0,-2),30)],t.sq)
-return A.t7(A.jp(A.b([B.Al,new A.tS(B.U,$.v5,"assets/images/email_icon.svg"," linked in  ","assets/images/linkedin_icon.svg",!1,"https://www.linkedin.com/in/thomas-giros-a53698a1/",r)],t.p),B.U,B.ap),new A.dz(o,r,r,r,s,r,B.a5),p,q,r,r,r,r)}}
+return A.t7(A.jp(A.b([B.Al,new A.tS(B.U,$.v5,"images/email_icon.svg"," linked in  ","images/linkedin_icon.svg",!1,"https://www.linkedin.com/in/thomas-giros-a53698a1/",r)],t.p),B.U,B.ap),new A.dz(o,r,r,r,s,r,B.a5),p,q,r,r,r,r)}}
 A.tS.prototype={
 N(a,b){var s=this,r=null,q=b.a2(t.w).f,p=s.c,o=s.x,n=t.p
 return A.eE(r,A.m_(A.b([new A.kh(1,B.d6,A.jp(A.b([new A.pl(s.d,s.e,o,"",r)],n),p,B.ap),r),new A.kh(1,B.d6,A.jp(A.b([new A.pl(s.f,s.r,o,s.y,r)],n),p,B.ap),r)],n),B.ER),B.r,r,r,r,r,r,r,r,r,r,q.a.a/2-1.5)}}
@@ -58204,12 +58204,12 @@ A.Bc.prototype={
 N(a,b){return new A.Dh($.pj.toLowerCase(),null)}}
 A.Dh.prototype={
 N(a,b){var s=null,r=$.aaI,q=$.aaH,p=$.aaO,o=$.aaP
-return A.m_(A.b([new A.l7(r,s),new A.xs(q,s),new A.l7(p,s),A.Pu("image","assets/images/proglang_logos.png","Curriculum Vitae","assets/images/Thomas Giros CV "+this.c+".pdf",o,p),A.jt(s,110,s)],t.p),B.U)}}
+return A.m_(A.b([new A.l7(r,s),new A.xs(q,s),new A.l7(p,s),A.Pu("image","images/proglang_logos.png","Curriculum Vitae","images/Thomas Giros CV "+this.c+".pdf",o,p),A.jt(s,110,s)],t.p),B.U)}}
 A.Ig.prototype={
 N(a,b){return new A.Di(null)}}
 A.Di.prototype={
 N(a,b){var s=null
-return A.m_(A.b([new A.l7($.aaM,s),new A.xs($.aaN,s),new A.l7($.aaK,s),A.Pu("video","assets/videos/spim_demo.mp4","Google Play","https://play.google.com/store/apps/details?id=com.tgiros.spim",$.aaQ,"Spim"),new A.l7($.aaL,s),A.Pu("image","assets/images/random_face.png","Source","https://adityar224.github.io/Random-Face-Generator/#/",$.aaG,"The Random Face Generator"),A.Pu("image","assets/images/app_painter.png","Source","https://appainter.dev/#/",$.aaF,"AppPainter"),A.jt(s,110,s)],t.p),B.U)}}
+return A.m_(A.b([new A.l7($.aaM,s),new A.xs($.aaN,s),new A.l7($.aaK,s),A.Pu("video","videos/spim_demo.mp4","Google Play","https://play.google.com/store/apps/details?id=com.tgiros.spim",$.aaQ,"Spim"),new A.l7($.aaL,s),A.Pu("image","images/random_face.png","Source","https://adityar224.github.io/Random-Face-Generator/#/",$.aaG,"The Random Face Generator"),A.Pu("image","images/app_painter.png","Source","https://appainter.dev/#/",$.aaF,"AppPainter"),A.jt(s,110,s)],t.p),B.U)}}
 A.t9.prototype={
 az(){return new A.y9(A.k2(20),B.m)}}
 A.y9.prototype={
@@ -58276,7 +58276,8 @@ if(s.gfX()===s.a.c){if(s.c!=null)s.ms(new A.a2T(s))}else if(s.c!=null)s.ms(new A
 fQ(a){A.T5(B.d3,new A.a2X(this),t.P)},
 b1(){var s,r=this,q="_controller"
 r.bJ()
-if(r.a.x==="video"){s=new A.I9("videos/spim_demo.mp4",new A.y0(B.n,B.n,B.e8,B.n,B.ly,!1,!1,!1,1,1,null,B.G,!1),A.an(0,null,!1,t.Y))
+s=r.a
+if(s.x==="video"){s=new A.I9(s.e,new A.y0(B.n,B.n,B.e8,B.n,B.ly,!1,!1,!1,1,1,null,B.G,!1),A.an(0,null,!1,t.Y))
 A.cK(r.db,q)
 r.db=s
 A.a(s,q).fH(0)}$.aaJ.push(r.ga4z(r))},
@@ -62702,7 +62703,7 @@ B.Ag=new A.k(536870911)
 B.Aj=new A.tO(!1)
 B.Ak=new A.tO(!0)
 B.qs=new A.po(1,"end")
-B.Al=new A.tS(B.qs," 438 880 2044 ","assets/images/phone_icon.svg"," github ","assets/images/github_icon.svg",!0,"https://github.com/Thomas-Giros",null)
+B.Al=new A.tS(B.qs," 438 880 2044 ","images/phone_icon.svg"," github ","images/github_icon.svg",!0,"https://github.com/Thomas-Giros",null)
 B.kU=new A.k9(0,"start")
 B.Am=new A.k9(1,"end")
 B.kV=new A.k9(2,"center")

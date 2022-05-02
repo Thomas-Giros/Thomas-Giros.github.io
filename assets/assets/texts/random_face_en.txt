@@ -1,0 +1,3 @@
+The Random Face Generator is a Flutter app that allows you to generate random faces. The app uses the thispersondoesnotexist and the fakeface api’s to create images of random people.
+Each face has been pre-analyzed by an AI algorithm called pypy-agender to identify the gender and age of the person in the image.
+This app is perfect for catfishing because you can create photos of random people without getting in trouble.
