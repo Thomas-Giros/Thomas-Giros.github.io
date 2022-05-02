@@ -1,6 +1,0 @@
-J'ai tout d'abord été introduit à l'informatique via le language python et la création musicale lors de mes études à l'Université de Montréal.
-La musique à toujours fait parti de ma vie mais la programmation est devenu un outil essentiel pour moi.
-J'ai donc poursuivi mes études à l'Université du Québec à Montréal afin d'améliorer mes connaissances dans le domaine.
-Il est difficile de faire un choix pour sa carrière tant les débouchés en informatique sont nombreux.
-J'ai tout d'abord travaillé en tant qu'analyste-programmeur afin de participer à la production de progiciels pour les sociétés de transport chez GIRO.
-Puis j'ai voulu prendre du recul pour me réorienté. C'est ainsi que je me suis tourné vers le développement d'application mobiles et le développement multiplateforme.
