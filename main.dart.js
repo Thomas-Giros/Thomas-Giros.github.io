@@ -18913,7 +18913,7 @@ h.sbr(0,B.C)
 h.siL(B.cR)
 h.sdi(2)
 g=new A.wm()
-g.uf(new A.pE(e,d,j,i,c,k,0,0.1,0.6,0.25,80),h)
+g.uf(new A.pE(e,d,j,i,c,k,0,0.1,0.6,0.25,20),h)
 $.ae7=g}else{$.tr=5
 $.tp=40
 $.tq=5
@@ -18933,7 +18933,7 @@ g.sbr(0,B.C)
 g.siL(B.cR)
 g.sdi(2)
 f=new A.wm()
-f.uf(new A.pE(new A.uK(d,e),c,i,h,k,j,0,0.1,0.6,0.25,40),g)
+f.uf(new A.pE(new A.uK(d,e),c,i,h,k,j,0,0.1,0.6,0.25,20),g)
 $.ae7=f}}},
 aq4(){var s,r
 for(s=0;r=$.aaJ,s<r.length;++s)r[s].$0()},
@@ -58148,7 +58148,7 @@ A.IM.prototype={
 N(a,b){var s,r=null,q=this.a.c,p=A.be(0,800),o=A.aC(b).ch.fr
 o=A.ao(B.d.a9(127.5),o.gn(o)>>>16&255,o.gn(o)>>>8&255,o.gn(o)&255)
 s=A.b([new A.hv(0,B.cS,A.ao(41,0,0,0),new A.u(0,-2),30)],t.sq)
-return A.t7(A.jp(A.b([B.Al,new A.tS(B.U,$.v5,"images/email_icon.svg"," linked in  ","images/linkedin_icon.svg",!1,"https://www.linkedin.com/in/thomas-giros-a53698a1/",r)],t.p),B.U,B.ap),new A.dz(o,r,r,r,s,r,B.a5),p,q,r,r,r,r)}}
+return A.t7(A.jp(A.b([B.Al,new A.tS(B.U,$.v5,"assets/images/email_icon.svg"," linked in  ","assets/images/linkedin_icon.svg",!1,"https://www.linkedin.com/in/thomas-giros-a53698a1/",r)],t.p),B.U,B.ap),new A.dz(o,r,r,r,s,r,B.a5),p,q,r,r,r,r)}}
 A.tS.prototype={
 N(a,b){var s=this,r=null,q=b.a2(t.w).f,p=s.c,o=s.x,n=t.p
 return A.eE(r,A.m_(A.b([new A.kh(1,B.d6,A.jp(A.b([new A.pl(s.d,s.e,o,"",r)],n),p,B.ap),r),new A.kh(1,B.d6,A.jp(A.b([new A.pl(s.f,s.r,o,s.y,r)],n),p,B.ap),r)],n),B.ER),B.r,r,r,r,r,r,r,r,r,r,q.a.a/2-1.5)}}
@@ -62710,7 +62710,7 @@ B.Ag=new A.k(536870911)
 B.Aj=new A.tO(!1)
 B.Ak=new A.tO(!0)
 B.qs=new A.po(1,"end")
-B.Al=new A.tS(B.qs,"+1 438 880 2044 ","images/phone_icon.svg"," github ","images/github_icon.svg",!0,"https://github.com/Thomas-Giros",null)
+B.Al=new A.tS(B.qs,"+1 438 880 2044 ","assets/images/phone_icon.svg"," github ","assets/images/github_icon.svg",!0,"https://github.com/Thomas-Giros",null)
 B.kU=new A.k9(0,"start")
 B.Am=new A.k9(1,"end")
 B.kV=new A.k9(2,"center")
